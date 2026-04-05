@@ -1,0 +1,12 @@
+Solar Plant Delta
+
+Project Type: Renewable Energy Infrastructure
+
+Start Date -> 2023-06-01
+Completion expected: 2025-09-30
+
+Primary Materials:
+Aluminum, Glass, Silicon Panels
+
+Notes:
+Designed to supply power to over 50,000 households.
