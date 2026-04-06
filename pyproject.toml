@@ -6,15 +6,19 @@ authors = [
     {name = "Your Name",email = "you@example.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12,<4.0.0"
 dependencies = [
     "sentence-transformers (>=5.3.0,<6.0.0)",
     "rank-bm25 (>=0.2.2,<0.3.0)",
     "numpy (>=2.4.4,<3.0.0)",
-    "pandas (>=3.0.2,<4.0.0)"
+    "pandas (>=3.0.2,<4.0.0)",
 ]
 
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.15.9"
+
