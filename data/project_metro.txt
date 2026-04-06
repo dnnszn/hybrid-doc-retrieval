@@ -1,14 +1,53 @@
 Metro Line Extension Phase 2
 
-ID: MLE-P2
+Project ID: MLE-P2
 
-Timeline:
-Start Date: 2023-11-10
-Projected Completion: 2026-08-01
+Project Overview:
+The Metro Line Extension Phase 2 project involves extending the urban metro system to improve transit connectivity across several high-density neighborhoods. This phase builds on the success of Phase 1 and aims to reduce travel times, increase passenger capacity, and provide more efficient service to the growing urban population.
+
+The extension includes multiple underground stations, expanded tracks, and integration with existing metro infrastructure. Safety, reliability, and accessibility are key priorities throughout construction.
+
+Scope of Work:
+The project covers civil, electrical, and signaling works. Major tasks include the excavation of tunnels, construction of underground stations, installation of tracks, and deployment of electrical and signaling systems.
+
+Coordination with city planning authorities is ongoing to ensure minimal disruption to surface-level traffic and public services during construction.
+
+Timeline Details:
+Construction officially began in November 2023. Early phases focused on tunneling and structural works, while later stages are centered on station completion, systems installation, and testing.
+
+Start Date:
+2023-11-10
+
+The projected completion is currently set for August 1, 2026, though minor delays may occur depending on weather and material availability.
+
+Projected Completion:
+2026-08-01
+
+Some internal reports also reference “mid-2026” as a target completion window to account for potential schedule shifts.
+
+Materials and Construction:
+The primary materials used include reinforced concrete and structural steel. Concrete is employed extensively for tunnel walls, station foundations, and support structures, ensuring long-term durability and safety.
+
+Steel is used in track supports, station frameworks, and structural reinforcements where high tensile strength is required. Certain prefabricated steel elements are incorporated to accelerate construction and maintain schedule adherence.
 
 Materials Used:
-Concrete, Steel
 
-Additional Info:
-Underground tunneling completed ahead of schedule.
-Electrical systems installation ongoing.
+Concrete
+Steel
+
+Progress Updates:
+
+Underground tunneling completed ahead of schedule, allowing subsequent phases to begin sooner than planned.
+Electrical systems installation is currently ongoing at multiple stations.
+Track laying and signaling installation will continue concurrently with remaining structural works.
+
+Additional Notes:
+Safety and quality assurance protocols are strictly enforced throughout the project. Regular inspections are conducted to verify compliance with engineering standards.
+
+Internal Summary:
+ID: MLE-P2
+Start date: November 10, 2023
+Projected finish: August 1, 2026 (some references “mid-2026”)
+Main materials: concrete and steel
+Tunnel completion ahead of schedule
+Electrical installations ongoing

@@ -1,13 +1,48 @@
 Airport Terminal B Expansion
 
-Project Details:
-Expansion of passenger capacity and new boarding gates.
+Project Overview:
+The Airport Terminal B Expansion project focuses on increasing overall passenger handling capacity while modernizing key infrastructure. The expansion includes the addition of new boarding gates, upgraded waiting areas, and improved passenger flow through redesigned security and check-in zones. The project is part of a broader initiative to support growing international and domestic traffic over the next decade.
 
-Start Date: 2024-04-25
-Completion Date: 2026-11-30
+Scope of Work:
+The construction scope covers both structural and technological upgrades. On the structural side, the project involves extending the terminal building footprint and reinforcing existing sections to support additional load. Several new jet bridges will be installed, and interior areas will be reconfigured to optimize movement efficiency.
 
-Materials:
-Glass, Steel, Reinforced Concrete
+In addition, the project integrates modern automation systems, including self-service kiosks and biometric security checkpoints. These systems are expected to reduce congestion and improve processing times for passengers.
 
-Notes:
-Project includes advanced security systems and automation.
+Timeline Information:
+Construction activities are scheduled to begin in late April 2024. Initial groundwork and demolition of selected sections will take place during the first phase.
+
+Start Date:
+2024-04-25
+
+The project timeline is expected to extend over multiple phases, with major structural work completed before interior installations begin. Based on current estimates, final completion is targeted toward the end of 2026, although minor adjustments may occur depending on supply chain conditions.
+
+Estimated Completion:
+November 30, 2026
+
+Materials and Construction:
+A combination of modern and durable materials will be used throughout the project. The primary structural components rely heavily on reinforced concrete to ensure long-term stability and compliance with safety standards.
+
+Steel framing will be used extensively in the new gate areas and roof extensions, providing both strength and flexibility in design. Large glass panels are planned for exterior walls to allow natural lighting and improve energy efficiency.
+
+Key materials include:
+
+Reinforced concrete
+Structural steel
+High-performance glass panels
+
+Note that some materials may be substituted depending on availability and cost fluctuations during the construction period.
+
+Additional Notes:
+This project includes the implementation of advanced security systems, including automated screening technologies and integrated monitoring solutions. These systems are designed to meet updated regulatory requirements and enhance overall airport safety.
+
+There are also plans to incorporate smart building technologies, enabling centralized control of lighting, temperature, and security systems.
+
+Other Considerations:
+Due to the complexity of the expansion, coordination between multiple contractors and stakeholders will be required. Environmental impact assessments have been conducted, and mitigation strategies are in place to reduce noise and emissions during construction.
+
+It is expected that certain operational disruptions may occur, particularly during peak construction phases. However, phased scheduling has been designed to minimize inconvenience to passengers and airport staff.
+
+Misc:
+Start of works expected Q2 2024 (see above)
+Completion currently projected end of 2026
+Main materials: concrete, steel, glass

@@ -1,14 +1,51 @@
+Skyline Tower
+
 Project Name: Skyline Tower
 Project ID: ST-2026
 
+Project Overview:
+Skyline Tower is a high-rise office and residential building designed to combine modern architecture with premium amenities. The project features mixed-use floors, including commercial offices, residential units, and rooftop recreational spaces with panoramic views.
+
+The design emphasizes sustainability, structural resilience, and luxury finishes to attract high-value tenants and residents.
+
+Scope of Work:
+The project involves structural construction, interior fit-outs, façade installation, and integration of building systems. Key tasks include foundation work, steel framework assembly, concrete pouring for core and floors, and installation of large glass panels for exterior façades.
+
+Timeline:
+Construction began in early March 2025 following completion of planning and permits.
+
 Start Date: 2025-03-01
+
+The estimated completion date is currently projected for mid-September 2026. Certain finishing works and interior installations may continue slightly beyond this date depending on material delivery and workforce scheduling.
+
 Estimated Completion Date: 2026-09-15
 
-Materials Used:
-- Concrete
-- Steel
-- Glass
+Some internal references also use the phrasing “late 2026” for flexibility in planning.
 
-Notes:
-Construction experienced delays due to supply chain issues in Q2.
-Additional workforce added in July to compensate.
+Materials and Construction:
+The main construction materials include concrete, steel, and glass. Concrete is used extensively in structural cores, flooring, and foundations to ensure stability and durability.
+
+Steel forms the primary framework for the tower, supporting both residential and commercial sections. Glass panels are incorporated across façades and windows, providing natural lighting and a modern aesthetic.
+
+Materials Used:
+
+Concrete
+Steel
+Glass
+
+Progress and Updates:
+
+Construction experienced delays in Q2 2025 due to supply chain issues affecting concrete and steel deliveries.
+To mitigate delays, additional workforce was added in July 2025 to accelerate ongoing construction phases.
+Structural framework is now back on schedule, and exterior works are progressing as planned.
+
+Additional Notes:
+The project includes energy-efficient systems, automated climate control, and safety monitoring integrated during construction. Rooftop amenities and landscaped communal areas are planned for completion in the final phase.
+
+Internal Summary:
+Project ID: ST-2026
+Start date: March 1, 2025
+Estimated completion: September 15, 2026 (“late 2026” referenced in some reports)
+Materials: concrete, steel, glass
+Delays due to supply chain issues in Q2 2025
+Additional workforce added in July 2025

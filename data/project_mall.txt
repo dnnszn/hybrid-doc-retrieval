@@ -1,13 +1,53 @@
 Greenfield Shopping Mall
 
 Project Overview:
-Large-scale retail development including entertainment areas.
+The Greenfield Shopping Mall project is a large-scale retail development designed to serve as a major commercial and social hub for the surrounding region. In addition to traditional retail spaces, the development includes entertainment zones, dining areas, and public gathering spaces intended to increase visitor engagement and foot traffic.
 
-Start Date: 2024-09-01
-Estimated Completion Date: 2026-12-15
+The mall is expected to host a mix of international and local brands, along with cinemas and family-oriented attractions. Early leasing activity has already generated strong interest from anchor tenants.
+
+Development Scope:
+The project involves the construction of a multi-level retail complex with integrated entertainment facilities. Key components include retail units, food courts, cinema halls, and parking infrastructure.
+
+Significant attention is being given to layout optimization to ensure smooth visitor flow between shopping, dining, and entertainment areas. The design also incorporates open spaces and natural lighting features to enhance the overall customer experience.
+
+Timeline:
+Construction is scheduled to begin in early September 2024, following finalization of tenant agreements and site preparation.
+
+Start Date:
+2024-09-01
+
+The development timeline spans multiple phases, including structural construction, interior fit-outs, and tenant-specific customizations. Based on current projections, the project is expected to reach completion toward the end of 2026.
+
+Estimated Completion Date:
+2026-12-15
+
+Some internal planning documents also refer to completion as “late 2026” depending on final tenant readiness and finishing work.
+
+Leasing and Commercial Notes:
+Anchor tenants were confirmed at an early stage of the project, which has positively influenced development momentum. Early confirmation has allowed certain construction phases to be accelerated, particularly those related to tenant-specific requirements.
+
+However, while early leasing progress is expected to support the timeline, final completion still depends on coordination across multiple stakeholders.
+
+Materials and Construction:
+The primary construction materials include a combination of concrete, steel, and glass. Concrete is being used for foundational and structural elements, ensuring stability and durability.
+
+Steel plays a key role in the building framework and large-span sections, particularly in open retail and entertainment areas. Glass is widely incorporated into the exterior façade and interior sections to maximize natural light and create a modern aesthetic.
 
 Materials Used:
-Concrete, Steel, Glass
+
+Concrete
+Steel
+Glass
+
+In some references, these materials are described collectively as the core structural and finishing components of the development.
 
 Additional Notes:
-Anchor tenants confirmed early, boosting project timeline.
+The project includes a significant entertainment component, which differentiates it from traditional retail-only developments. This includes cinema complexes and family activity zones.
+
+While early tenant commitments have helped accelerate certain aspects of the project, there remains a risk of delays during later stages due to tenant customization and final inspections.
+
+Summary (internal use):
+Start: September 1, 2024
+Completion expected around December 2026
+Main materials: concrete, steel, glass
+Anchor tenants secured early in development

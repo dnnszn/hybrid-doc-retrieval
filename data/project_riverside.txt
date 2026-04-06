@@ -1,12 +1,49 @@
 --- Riverside Complex ---
 
-ID: RCX-2025
-Timeline:
-Started on 2024-05-10
+Project ID: RCX-2025
+
+Project Overview:
+The Riverside Complex is a mixed-use development featuring residential and commercial spaces along the riverfront. The project includes apartment buildings, retail outlets, and public promenade areas designed to enhance the waterfront experience for residents and visitors.
+
+The design emphasizes accessibility, aesthetics, and environmental considerations, with landscaped areas, pedestrian pathways, and open plazas integrated into the project layout.
+
+Scope of Work:
+Construction involves structural development, façade work, and interior finishing. Key tasks include building residential units, commercial spaces, and shared community amenities, as well as reinforcing foundations and installing utilities.
+
+Timeline Details:
+The project officially started on May 10, 2024, following approval of designs and site preparation work.
+
+Started on: 2024-05-10
+
+Expected completion is currently projected for December 1, 2025. Minor scheduling adjustments may occur due to weather, material delivery, or regulatory inspections.
+
 Expected completion: 2025-12-01
 
-Main materials include brick and steel.
+Some internal references also mention “end of 2025” as a flexible target, depending on progress in finishing works and tenant fit-outs.
 
-Remarks:
-Project is currently ahead of schedule.
-Weather conditions have been favorable.
+Materials and Construction:
+The main materials used for the Riverside Complex include brick and steel. Brick is utilized primarily for exterior façades and structural walls, providing durability and aesthetic appeal.
+
+Steel is used for structural frameworks, support beams, and commercial areas requiring open spans. Certain prefabricated steel components are incorporated to accelerate construction timelines.
+
+Materials:
+
+Brick
+Steel
+
+Progress Updates:
+
+Project is currently ahead of schedule, with foundational and structural works completed faster than anticipated.
+Weather conditions have been favorable, supporting uninterrupted construction activities.
+Interior fit-outs and landscaping are ongoing and expected to continue through late 2025.
+
+Additional Notes:
+Efforts are being made to integrate green building practices where possible, including energy-efficient lighting, rainwater management, and sustainable landscaping.
+
+Internal Summary:
+Project ID: RCX-2025
+Start date: May 10, 2024
+Expected finish: December 1, 2025 (also referred to as “end of 2025”)
+Key materials: brick, steel
+Project ahead of schedule
+Favorable weather conditions

@@ -1,15 +1,42 @@
 Tech Park Alpha
 
-Overview:
-Development of a multi-building office complex.
+Project Overview:
+Tech Park Alpha is a multi-building office complex designed to accommodate a mix of corporate offices, co-working spaces, and shared amenities. The development emphasizes modern architecture, energy efficiency, and flexible workspaces suitable for a range of business tenants.
+
+The project is being executed in multiple phases, including structural construction, interior fit-outs, landscaping, and the integration of smart building technologies.
+
+Timeline:
+Construction officially started on July 1, 2025, following detailed planning and permitting approvals.
 
 Project started on: 2025-07-01
+
+The expected completion date is projected for the end of the second quarter of 2027. Certain phases, such as interior finishes and landscaping, may extend slightly depending on contractor scheduling and material deliveries.
+
 Completion expected by end of Q2 2027
 
-Materials:
-- Steel
-- Glass
-- Composite Panels
+Materials and Construction Details:
+A variety of construction materials are being utilized to ensure durability, safety, and modern aesthetics. Structural steel is used for the primary framework of each building, supporting large open floor plans and flexible interior layouts.
 
-Remarks:
-Sustainability measures include solar panel integration.
+Glass is extensively incorporated into façades, office partitions, and common areas to maximize natural lighting and create a modern, transparent look. Composite panels are also being used for exterior cladding to provide insulation, reduce weight, and improve energy efficiency.
+
+Materials:
+
+Steel
+Glass
+Composite Panels
+
+Some internal documents refer to these as the “core construction materials,” while also highlighting that secondary materials like concrete and aluminum are used for specific structural or finishing purposes.
+
+Sustainability Measures:
+Sustainability is a central focus of the project. Solar panels are integrated across rooftops to reduce energy consumption and provide renewable power for common areas.
+
+Additional green features include energy-efficient lighting, water-saving plumbing systems, and landscaped open areas designed to reduce heat absorption and promote natural cooling.
+
+Additional Remarks:
+The project also plans for smart building systems, including automated climate control, occupancy sensors, and integrated security monitoring. These features are being phased in alongside construction to allow seamless operation once the buildings are completed.
+
+Internal Summary:
+Project start date: July 1, 2025
+Expected completion: end of Q2 2027
+Key materials: steel, glass, composite panels
+Sustainability: solar panel integration, energy-efficient systems

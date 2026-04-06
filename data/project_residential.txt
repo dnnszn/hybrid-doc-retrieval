@@ -1,13 +1,42 @@
 Harbor Residential Complex
 
-General Info:
-Luxury residential apartments near the waterfront.
+Project Overview:
+The Harbor Residential Complex is a luxury apartment development located near the waterfront, designed to provide high-end living spaces with modern amenities. The project includes multiple residential towers, landscaped communal areas, and recreational facilities such as gyms and rooftop terraces.
+
+The development targets both long-term residents and seasonal tenants, offering a combination of private apartments and shared community spaces to enhance resident experience.
+
+Scope of Work:
+Construction involves both structural and finishing works. Structural tasks include erecting residential towers, reinforcing foundations, and integrating utility infrastructure. Finishing works include interior fittings, landscaping, and installation of energy-efficient systems.
+
+Timeline Details:
+Construction officially began in mid-February 2025 following planning approvals and site preparation.
 
 Construction began: 2025-02-14
+
+The estimated finish date is projected for October 10, 2026, though minor adjustments may occur depending on material delivery schedules, weather conditions, and tenant customization requests.
+
 Estimated finish: 2026-10-10
 
-Materials:
-Brick, Concrete, Wood
+Some internal reports also refer to “late 2026” as a target completion window to account for potential schedule shifts.
 
-Remarks:
-High demand for units has accelerated construction phases.
+Materials and Construction:
+The project uses a combination of traditional and durable materials suitable for luxury residential construction. Brick is used extensively for exterior façades, providing both aesthetic appeal and structural integrity.
+
+Concrete forms the foundation, structural walls, and flooring systems, ensuring long-term stability. Wood is incorporated in interior finishes, flooring, and decorative elements to provide warmth and style.
+
+Materials:
+
+Brick
+Concrete
+Wood
+
+Additional Notes:
+High demand for units has accelerated certain construction phases, particularly interior finishing and landscaping. Scheduling adjustments have been made to ensure that priority areas are completed on time.
+
+Other considerations include environmental sustainability measures, such as low-emission materials and water-saving systems, which are being gradually integrated into the construction plan.
+
+Internal Summary:
+Start date: February 14, 2025
+Expected finish: October 10, 2026 (some references “late 2026”)
+Key materials: brick, concrete, wood
+Construction accelerated due to high unit demand

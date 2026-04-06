@@ -1,0 +1,62 @@
+[
+  {
+    "project_name": "Airport Terminal B Expansion",
+    "start_date": "2024-04-25",
+    "completion_date": "2026-11-30",
+    "materials": ["Glass", "Steel", "Concrete"]
+  },
+  {
+    "project_name": "Bridge Expansion Project",
+    "start_date": "2023-08-20",
+    "completion_date": "2025-06-30",
+    "materials": ["Steel", "Reinforced Concrete"]
+  },
+  {
+    "project_name": "Central City Hospital Upgrade",
+    "start_date": "2024-01-15",
+    "completion_date": "2026-03-20",
+    "materials": ["Concrete", "Glass", "Aluminum"]
+  },
+  {
+    "project_name": "Greenfield Shopping Mall",
+    "start_date": "2024-09-01",
+    "completion_date": "2026-12-15",
+    "materials": ["Concrete", "Steel", "Glass"]
+  },
+  {
+    "project_name": "Metro Line Extension Phase 2",
+    "start_date": "2023-11-10",
+    "completion_date": "2026-08-01",
+    "materials": ["Concrete", "Steel"]
+  },
+  {
+    "project_name": "Tech Park Alpha",
+    "start_date": "2025-07-01",
+    "completion_date": "2027-06-30",
+    "materials": ["Steel", "Glass", "Composite Panels"]
+  },
+  {
+    "project_name": "Harbor Residential Complex",
+    "start_date": "2025-02-14",
+    "completion_date": "2026-10-10",
+    "materials": ["Brick", "Concrete", "Wood"]
+  },
+  {
+    "project_name": "Riverside Complex",
+    "start_date": "2024-05-10",
+    "completion_date": "2025-12-01",
+    "materials": ["Brick", "Steel"]
+  },
+  {
+    "project_name": "Skyline Tower",
+    "start_date": "2025-03-01",
+    "completion_date": "2026-09-15",
+    "materials": ["Concrete", "Steel", "Glass"]
+  },
+  {
+    "project_name": "Solar Plant Delta",
+    "start_date": "2023-06-01",
+    "completion_date": "2025-09-30",
+    "materials": ["Aluminum", "Glass", "Silicon Panels"]
+  }
+]

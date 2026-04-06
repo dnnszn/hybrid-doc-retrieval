@@ -2,11 +2,41 @@ Solar Plant Delta
 
 Project Type: Renewable Energy Infrastructure
 
+Project Overview:
+Solar Plant Delta is a large-scale renewable energy project designed to generate clean electricity for the surrounding region. The plant is planned to supply power to over 50,000 households, contributing significantly to local energy sustainability goals.
+
+The project includes photovoltaic arrays, control systems, inverters, and connection to the regional power grid. Emphasis is placed on maximizing energy efficiency, minimizing environmental impact, and ensuring long-term operational reliability.
+
+Scope of Work:
+Construction involves site preparation, installation of solar panels, electrical infrastructure, and integration with grid systems. Key tasks include laying foundations for panels, installing aluminum frameworks, wiring and electrical connections, and testing system performance.
+
+Timeline:
+Construction officially started on June 1, 2023, following final permitting and environmental assessments.
+
 Start Date -> 2023-06-01
+
+The expected completion is currently projected for September 30, 2025. Minor variations in schedule may occur depending on weather conditions, equipment delivery, and testing procedures.
+
 Completion expected: 2025-09-30
 
-Primary Materials:
-Aluminum, Glass, Silicon Panels
+Some internal references also mention “late 2025” as a target window to allow for commissioning and final inspections.
 
-Notes:
-Designed to supply power to over 50,000 households.
+Materials and Construction:
+Primary materials used in the project include aluminum, glass, and silicon panels. Aluminum is used for mounting structures and support frames, providing durability while minimizing weight.
+
+Glass is incorporated in panel coverings to protect solar cells and improve light transmission. Silicon panels form the core of the energy generation system and are arranged across large areas of the site for maximum sunlight exposure.
+
+Primary Materials:
+
+Aluminum
+Glass
+Silicon Panels
+
+Additional Notes:
+The plant is designed to be fully operational year-round and incorporates monitoring systems to track energy output and efficiency. Environmental safeguards are in place to protect local ecosystems during construction and operation.
+
+Internal Summary:
+Start date: June 1, 2023
+Expected finish: September 30, 2025 (“late 2025” referenced in some reports)
+Materials: aluminum, glass, silicon panels
+Capacity: power supply for 50,000+ households
