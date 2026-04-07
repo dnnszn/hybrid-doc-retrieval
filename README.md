@@ -157,3 +157,38 @@ Rank 4: project_airport.txt, chunk 0, final_score=0.484
 Rank 5: project_skyline.txt, chunk 0, final_score=0.466
 Correct chunk should be: project_residential.txt, chunk 0
 ```
+
+---
+
+## Design Choices
+
+### Why no real embeddings/LLM?
+- This prototype mainly focuses on the pipeline design, evaluation, and high level understanding of creating such projects. In real implementations, the chunks would be vectorized with an LLM, and stored with its relevant metadata in a vector database. A dummy function, `vectorize_chunks`, is created in the ingestion_pipeline.py file to simulate this step.
+- This also means that the semantic search and LLM responses are psuedo. For this reason, the semantic search has a weight of 0.1 in the hybrid retrieval pipeline, which is assigned a random value between 0 and 1. For the final evaluation part, the LLM response is set to 1 if the the top-1 retrieved chunk is the correct one. In this scenario, to mimic an LLM response, the relevant piece of information is retrieved from the `ground_truth.json` file.
+
+### Why .txt files for messy input documents?
+- .txt files with different wording and formatting were generated to simulate real-life messy data and documents. In real-life scenarios, especially for construction related documents, other formats are more common (pdf, scans, over drawing). For such cases, libraries that help to process such documents or LLMs would be used.
+
+### Why Hybrid Retrieval?
+- BM25 is useful for exact word matches and structured keywords.
+- Semantic Retrieval is useful for situations like paraphrasing, missing keywords and typos. It is a great way of retrieving relevant chunks without necessarily relying on exact word matching.
+- The combination of BM25 and Semantic Retrieval brings the best out of each other. The weights of them in a hybrid retrieval pipeline would change based on the project and data. In this prototype, BM25 has a weight of 0.9 and the semantic retrieval has a weight of 0.1. As already mentioned, this choice was made due to not vectorizing chunks, and simulating semantic retrieval scores with a random value between 0 and 1.
+
+### Why include ground truths and evalution in a prototype project?
+- Observability (logging, tracing, etc.) is a crucial part of real-life projects. Although working with dummy data and mock llm responses, having an evaluation pipeline to such a project was required to present a complete prototype version. In a real project, the vectorized chunks would be stored in a vector database with more metadata, logging pipelines can be setup with an external tool such as Grafana (Loki, OpenTelemetry), and a much bigger and high-quality ground truth document would be essential to debug, improve and understand certain system/LLM behaviours.
+
+---
+
+## Final Thoughts
+
+This project was built to demonstrate:
+- Ability in building end-to-end applied AI systems.
+- Having a high-level understanding in how such systems are built with real-life data and LLMs.
+- Understanding why Hybrid Information Retrieval is useful and necessary.
+- Acknowledging that steps such as evaluation and observability are as essential as other steps.
+
+---
+
+## Closing
+
+Happy to walk through my design choices, tradeoffs, and how I would implement this in a real-life project!
