@@ -2,7 +2,7 @@ import random
 from rank_bm25 import BM25Okapi
 
 
-def hybrid_mock_retrieve(query, chunks, top_k = 5, alpha = 0.7):
+def hybrid_mock_retrieve(query, chunks, top_k=5, alpha=0.9):
     """
     Hybrid retrieval using:
     - BM25 (real lexical search)
@@ -46,13 +46,15 @@ def hybrid_mock_retrieve(query, chunks, top_k = 5, alpha = 0.7):
 
         final_score = alpha * bm25_norm + (1 - alpha) * semantic_score
 
-        results.append({
-            "chunk": chunk,
-            "bm25_score": bm25_norm,
-            "semantic_score": semantic_score,
-            "final_score": final_score,
-        })
+        results.append(
+            {
+                "chunk": chunk,
+                "bm25_score": bm25_norm,
+                "semantic_score": semantic_score,
+                "final_score": final_score,
+            }
+        )
 
-    ranked = sorted(results, key = lambda x: x["final_score"], reverse = True)
+    ranked = sorted(results, key=lambda x: x["final_score"], reverse=True)
 
     return ranked[:top_k]

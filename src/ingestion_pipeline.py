@@ -4,6 +4,7 @@ docs_path = "data"  # Directory where the .txt documents are stored
 chunk_size = 150    # Number of words per chunk
 overlap = 25    # Number of overlapping words between chunks
 
+
 def load_documents(path = docs_path):
     """
     Load all .txt documents from the specified directory and return a list of dictionaries with filename and content.
@@ -57,15 +58,11 @@ def vectorize_chunks(chunks):
     """
     # This is where you would integrate your vectorization logic (LLM, vector database", etc.)
     pass
-
-if __name__ == "__main__":
-    chunks = ingest_documents()
-    print(f"Created {len(chunks)} chunks from {len(set(c['filename'] for c in chunks))} documents!")
     
-    # Print the first 5 chunks for verification
-    for i, chunk in enumerate(chunks[:5]):
-        print(f"--- Chunk {i+1} ---")
-        print(f"Filename: {chunk['filename']}")
-        print(f"Chunk index: {chunk['chunk_index']}")
-        print(f"Content preview: {chunk['content']}...")
-        print()
+# Uncomment for debugging purposes to see the ingested chunks
+#for i, chunk in enumerate(chunks[:]):
+#    print(f"--- Chunk {i+1} ---")
+#    print(f"Filename: {chunk['filename']}")
+#    print(f"Chunk index: {chunk['chunk_index']}")
+#    print(f"Content preview: {chunk['content']}...")
+#    print()
