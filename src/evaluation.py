@@ -42,15 +42,16 @@ def deterministic_mock_llm(
         return "[NOT FOUND]"
 
 
-def evaluate_queries(queries, retrieved_results, correct_chunks, ground_truth):
+def evaluate_queries(queries, retrieved_results, correct_chunks, ground_truth, log_fn = print):
     """
-    Evaluate queries with Top-1, Top-3, and deterministic mock LLM info correctness.
+    Evaluate queries with Top-1, Top-3, and deterministic mock LLM info correctness. 
+    log_fn is a logging function that can be overridden to print to console or write to a file.
     """
     top1_scores = []
     top3_scores = []
     info_scores = []
 
-    print("=" * 60)
+    log_fn("=" * 60)
 
     for i, query in enumerate(queries):
         retrieved_top_k = retrieved_results[i]
@@ -74,17 +75,17 @@ def evaluate_queries(queries, retrieved_results, correct_chunks, ground_truth):
         info_scores.append(info_correct)
 
         # Detailed evaluation output for each query
-        print(f"Query {i + 1}: {query['query_text']}")
-        print(f"Query type: {query['query_type']}")
-        print(
+        log_fn(f"Query {i + 1}: {query['query_text']}")
+        log_fn(f"Query type: {query['query_type']}")
+        log_fn(
             f"Top-1 chunk filename: {retrieved_top_k[0]['chunk']['filename']}, chunk index: {retrieved_top_k[0]['chunk']['chunk_index']}"
         )
-        print(
+        log_fn(
             f"Expected info: {gt_item[query['query_type']] if query['query_type'] != 'materials' else ', '.join(gt_item['materials'])}"
         )
-        print(f"Retrieved info: {retrieved_info}")
-        print(f"Top-1 hit: {top1}, Top-3 hit: {top3}, LLM Response: {info_correct}")
-        print("-" * 60)
+        log_fn(f"Retrieved info: {retrieved_info}")
+        log_fn(f"Top-1 hit: {top1}, Top-3 hit: {top3}, LLM Response: {info_correct}")
+        log_fn("-" * 60)
 
     results = {
         "top1_accuracy": sum(top1_scores) / len(top1_scores),

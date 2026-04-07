@@ -1,0 +1,95 @@
+Run timestamp: 20260407_142634
+============================================================
+Query 1: When did the construction begin for the Harbor Residential Complex Project?
+Query type: start_date
+Top-1 chunk filename: project_residential.txt, chunk index: 0
+Expected info: 2025-02-14
+Retrieved info: 2025-02-14
+Top-1 hit: 1, Top-3 hit: 1, LLM Response: 1
+------------------------------------------------------------
+Query 2: What materials are used in Central City Hospital Upgrade?
+Query type: materials
+Top-1 chunk filename: project_hospital.txt, chunk index: 0
+Expected info: Concrete, Glass, Aluminum
+Retrieved info: [NOT FOUND]
+Top-1 hit: 0, Top-3 hit: 1, LLM Response: 0
+------------------------------------------------------------
+Query 3: When is the expected completion date for the Riverside Complex?
+Query type: completion_date
+Top-1 chunk filename: project_riverside.txt, chunk index: 0
+Expected info: 2025-12-01
+Retrieved info: 2025-12-01
+Top-1 hit: 1, Top-3 hit: 1, LLM Response: 1
+------------------------------------------------------------
+Query 4: What is the start date of the Solar Plant Delta project?
+Query type: start_date
+Top-1 chunk filename: project_solar.txt, chunk index: 0
+Expected info: 2023-06-01
+Retrieved info: 2023-06-01
+Top-1 hit: 1, Top-3 hit: 1, LLM Response: 1
+------------------------------------------------------------
+Query 5: What are the materials used in Skyline Tower project?
+Query type: materials
+Top-1 chunk filename: project_skyline.txt, chunk index: 0
+Expected info: Concrete, Steel, Glass
+Retrieved info: [NOT FOUND]
+Top-1 hit: 0, Top-3 hit: 0, LLM Response: 0
+------------------------------------------------------------
+=== Evaluation Results ===
+Top-1 Accuracy: 60.0%
+Top-3 Accuracy: 80.0%
+LLM Response Accuracy: 60.0%
+============================================================
+
+
+Detailed query results:
+
+Query 1: When did the construction begin for the Harbor Residential Complex Project?
+Query type: start_date
+Top-5 retrieved chunks (filename, chunk_index, score):
+Rank 1: project_residential.txt, chunk 0, final_score=0.981
+Rank 2: project_riverside.txt, chunk 0, final_score=0.636
+Rank 3: project_bridge.txt, chunk 2, final_score=0.484
+Rank 4: project_airport.txt, chunk 0, final_score=0.484
+Rank 5: project_skyline.txt, chunk 0, final_score=0.466
+Correct chunk should be: project_residential.txt, chunk 0
+
+Query 2: What materials are used in Central City Hospital Upgrade?
+Query type: materials
+Top-5 retrieved chunks (filename, chunk_index, score):
+Rank 1: project_hospital.txt, chunk 0, final_score=0.989
+Rank 2: project_hospital.txt, chunk 2, final_score=0.404
+Rank 3: project_office.txt, chunk 1, final_score=0.365
+Rank 4: project_metro.txt, chunk 0, final_score=0.312
+Rank 5: project_airport.txt, chunk 1, final_score=0.279
+Correct chunk should be: project_hospital.txt, chunk 2
+
+Query 3: When is the expected completion date for the Riverside Complex?
+Query type: completion_date
+Top-5 retrieved chunks (filename, chunk_index, score):
+Rank 1: project_riverside.txt, chunk 0, final_score=0.981
+Rank 2: project_solar.txt, chunk 1, final_score=0.730
+Rank 3: project_riverside.txt, chunk 1, final_score=0.723
+Rank 4: project_office.txt, chunk 0, final_score=0.720
+Rank 5: project_bridge.txt, chunk 2, final_score=0.658
+Correct chunk should be: project_riverside.txt, chunk 0
+
+Query 4: What is the start date of the Solar Plant Delta project?
+Query type: start_date
+Top-5 retrieved chunks (filename, chunk_index, score):
+Rank 1: project_solar.txt, chunk 0, final_score=0.907
+Rank 2: project_solar.txt, chunk 1, final_score=0.582
+Rank 3: project_skyline.txt, chunk 0, final_score=0.367
+Rank 4: project_solar.txt, chunk 2, final_score=0.345
+Rank 5: project_office.txt, chunk 0, final_score=0.336
+Correct chunk should be: project_solar.txt, chunk 0
+
+Query 5: What are the materials used in Skyline Tower project?
+Query type: materials
+Top-5 retrieved chunks (filename, chunk_index, score):
+Rank 1: project_skyline.txt, chunk 0, final_score=0.977
+Rank 2: project_airport.txt, chunk 1, final_score=0.315
+Rank 3: project_hospital.txt, chunk 2, final_score=0.306
+Rank 4: project_airport.txt, chunk 2, final_score=0.305
+Rank 5: project_solar.txt, chunk 1, final_score=0.302
+Correct chunk should be: project_skyline.txt, chunk 1

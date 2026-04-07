@@ -1,0 +1,209 @@
+{
+  "metrics": {
+    "top1_accuracy": 0.6,
+    "top3_accuracy": 0.8,
+    "llm_response_accuracy": 0.6
+  },
+  "queries": [
+    {
+      "query": "When did the construction begin for the Harbor Residential Complex Project?",
+      "query_type": "start_date",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "filename": "project_residential.txt",
+          "chunk_index": 0,
+          "score": 0.9806360046845569
+        },
+        {
+          "rank": 2,
+          "filename": "project_riverside.txt",
+          "chunk_index": 0,
+          "score": 0.6364469980749788
+        },
+        {
+          "rank": 3,
+          "filename": "project_bridge.txt",
+          "chunk_index": 2,
+          "score": 0.48357446156450806
+        },
+        {
+          "rank": 4,
+          "filename": "project_airport.txt",
+          "chunk_index": 0,
+          "score": 0.4835098068849069
+        },
+        {
+          "rank": 5,
+          "filename": "project_skyline.txt",
+          "chunk_index": 0,
+          "score": 0.4659278039048042
+        }
+      ],
+      "correct_chunk": {
+        "filename": "project_residential.txt",
+        "chunk_index": 0
+      }
+    },
+    {
+      "query": "What materials are used in Central City Hospital Upgrade?",
+      "query_type": "materials",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "filename": "project_hospital.txt",
+          "chunk_index": 0,
+          "score": 0.988528785631761
+        },
+        {
+          "rank": 2,
+          "filename": "project_hospital.txt",
+          "chunk_index": 2,
+          "score": 0.40369442355783236
+        },
+        {
+          "rank": 3,
+          "filename": "project_office.txt",
+          "chunk_index": 1,
+          "score": 0.36474625626290696
+        },
+        {
+          "rank": 4,
+          "filename": "project_metro.txt",
+          "chunk_index": 0,
+          "score": 0.31176583344337644
+        },
+        {
+          "rank": 5,
+          "filename": "project_airport.txt",
+          "chunk_index": 1,
+          "score": 0.2786335077770568
+        }
+      ],
+      "correct_chunk": {
+        "filename": "project_hospital.txt",
+        "chunk_index": 2
+      }
+    },
+    {
+      "query": "When is the expected completion date for the Riverside Complex?",
+      "query_type": "completion_date",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "filename": "project_riverside.txt",
+          "chunk_index": 0,
+          "score": 0.9810763656628649
+        },
+        {
+          "rank": 2,
+          "filename": "project_solar.txt",
+          "chunk_index": 1,
+          "score": 0.730282914600784
+        },
+        {
+          "rank": 3,
+          "filename": "project_riverside.txt",
+          "chunk_index": 1,
+          "score": 0.7228211548535862
+        },
+        {
+          "rank": 4,
+          "filename": "project_office.txt",
+          "chunk_index": 0,
+          "score": 0.7202756948278148
+        },
+        {
+          "rank": 5,
+          "filename": "project_bridge.txt",
+          "chunk_index": 2,
+          "score": 0.6582570254058973
+        }
+      ],
+      "correct_chunk": {
+        "filename": "project_riverside.txt",
+        "chunk_index": 0
+      }
+    },
+    {
+      "query": "What is the start date of the Solar Plant Delta project?",
+      "query_type": "start_date",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "filename": "project_solar.txt",
+          "chunk_index": 0,
+          "score": 0.907279376798443
+        },
+        {
+          "rank": 2,
+          "filename": "project_solar.txt",
+          "chunk_index": 1,
+          "score": 0.5818640426591641
+        },
+        {
+          "rank": 3,
+          "filename": "project_skyline.txt",
+          "chunk_index": 0,
+          "score": 0.366992563650253
+        },
+        {
+          "rank": 4,
+          "filename": "project_solar.txt",
+          "chunk_index": 2,
+          "score": 0.34527103889207245
+        },
+        {
+          "rank": 5,
+          "filename": "project_office.txt",
+          "chunk_index": 0,
+          "score": 0.33577678577116293
+        }
+      ],
+      "correct_chunk": {
+        "filename": "project_solar.txt",
+        "chunk_index": 0
+      }
+    },
+    {
+      "query": "What are the materials used in Skyline Tower project?",
+      "query_type": "materials",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "filename": "project_skyline.txt",
+          "chunk_index": 0,
+          "score": 0.9767142856533934
+        },
+        {
+          "rank": 2,
+          "filename": "project_airport.txt",
+          "chunk_index": 1,
+          "score": 0.3147833102029901
+        },
+        {
+          "rank": 3,
+          "filename": "project_hospital.txt",
+          "chunk_index": 2,
+          "score": 0.3057890748401772
+        },
+        {
+          "rank": 4,
+          "filename": "project_airport.txt",
+          "chunk_index": 2,
+          "score": 0.304719806874165
+        },
+        {
+          "rank": 5,
+          "filename": "project_solar.txt",
+          "chunk_index": 1,
+          "score": 0.3018416401392646
+        }
+      ],
+      "correct_chunk": {
+        "filename": "project_skyline.txt",
+        "chunk_index": 1
+      }
+    }
+  ]
+}
