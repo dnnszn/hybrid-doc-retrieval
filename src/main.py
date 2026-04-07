@@ -47,6 +47,8 @@ for query in queries:
 
 results = evaluate_queries(queries, retrieved_results, correct_chunks, ground_truth)
 
+
+# Main evalution results
 print("=== Evaluation Results ===")
 print(f"Top-1 Accuracy: {results['top1_accuracy'] * 100:.1f}%")
 print(f"Top-3 Accuracy: {results['top3_accuracy'] * 100:.1f}%")
@@ -55,6 +57,7 @@ print("=" * 60)
 print("\n\nDetailed query results:")
 
 
+# Detailed hybrid retrieval results for each query
 for i, query in enumerate(queries):
     print(f"\nQuery {i + 1}: {query['query_text']}")
     print(f"Query type: {query['query_type']}")
