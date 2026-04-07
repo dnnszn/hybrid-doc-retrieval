@@ -47,7 +47,7 @@ The goal is to demonstrate practical system design decisions for applied AI in s
 ---
 
 ## Project Structure
-
+```
 project/
 ├── data/                           # Noisy construction related documents
 ├── output/                         # Output of running main.py
@@ -61,7 +61,7 @@ project/
 ├── pyproject.toml
 ├── poetry.lock
 ├── README.md
-
+```
 ---
 
 ## How to Run
@@ -83,9 +83,9 @@ project/
 ```
 
 In order to simulate evaluation, the script also requires the ground truth chunk while creating a query (For more detail, please refer to main.py).
-The filename refers to the relevant .txt file in the `data` folder, 
+The filename refers to the relevant .txt file in the `data` folder, followed by the correct chunk index:
 
-["filename"] == "project_residential.txt" and c["chunk_index"] == 0
+`["filename"] == "project_residential.txt" and c["chunk_index"] == 0`
 
 ---
 
@@ -137,7 +137,7 @@ Here is how the relevant output would look like for the previous example in the 
     }
 ```
 - For the .txt output file:
-
+```
 Query 1: When did the construction begin for the Harbor Residential Complex Project?
 Query type: start_date
 Top-1 chunk filename: project_residential.txt, chunk index: 0
@@ -156,3 +156,4 @@ Rank 3: project_bridge.txt, chunk 2, final_score=0.484
 Rank 4: project_airport.txt, chunk 0, final_score=0.484
 Rank 5: project_skyline.txt, chunk 0, final_score=0.466
 Correct chunk should be: project_residential.txt, chunk 0
+```
