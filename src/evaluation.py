@@ -73,7 +73,7 @@ def evaluate_queries(queries, retrieved_results, correct_chunks, ground_truth):
         top3_scores.append(top3)
         info_scores.append(info_correct)
 
-        # Detailed evaluation output
+        # Detailed evaluation output for each query
         print(f"Query {i + 1}: {query['query_text']}")
         print(f"Query type: {query['query_type']}")
         print(
